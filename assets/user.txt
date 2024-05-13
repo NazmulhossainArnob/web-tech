@@ -1,0 +1,18 @@
+admin|12345678|ABC|abc@gmail.com|Male|2000-11-11|admin
+customer|12345678|ABCD|abcd@gmail.com|Female|1995-10-11|customer
+deliveryman|12345678|ABCDE|abcde@gmail.com|Male|2000-03-11|deliveryman
+vendor|12345678|ABCDEF|abcdef@gmail.com|Male|2001-11-10|vendor
+
+
+shifa|kabir150231|sunjida kabir shifa|sanjidashifabd2001@gmail.com|Female|2000-02-02|customer
+sunjida|kabir150231|sunjida|sanjida@gmail.com|Female|2000-02-02|customer
+kabir|12345678|kabir|kabir@gmail.com|Male|2013-01-02|deliveryman
+rytf|34567890|shifa|shifabd2001@gmail.com|Female|2010-07-21|vendor
+tuy|thenthen|rtyy|rtt@gmail.com|Female|2012-06-06|customer
+tyfg|shifashifa|rtfyf|ftyy@gmail.com|Female|2011-05-31|deliveryman
+tyg|hihihihi|fygttu|juoiu@gmail.com|Female|2012-06-19|vendor
+ttt|tttttttt|ttt|ttt@gmail.com|Female|2021-10-20|deliveryman
+ggg|gggggggg|ggg|ggg@gmail.com|Female|2023-03-07|vendor
+asif|456781234|qwe|qwe@gmail.com|Male|2017-06-05|customer
+ahmed|ahmedahmed|rty|rty@gmail.com|Male|2021-07-05|deliveryman
+tanjid|tanjidtanjid|uio|uio@gmail.com|Male|2020-11-10|vendor
