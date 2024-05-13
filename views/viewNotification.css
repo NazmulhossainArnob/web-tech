@@ -1,0 +1,44 @@
+body {
+    background-color: lightgrey;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+fieldset {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid darkgray;
+    border-radius: 10px;
+}
+
+legend {
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+    padding-bottom: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid forestgreen;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: forestgreen;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}

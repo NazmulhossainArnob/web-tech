@@ -1,0 +1,107 @@
+.user {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  .user td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  .user tr:nth-child(even){background-color: #f2f2f2;}
+
+.user tr:hover {background-color: #ddd;}
+
+.user th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  /* text-align: left; */
+  background-color: #369929;
+  color: white;
+}
+.btn{
+    background-color: #0f9bec;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-right: 20px;
+    text-align:center; 
+    vertical-align:middle;
+    text-decoration: none;
+    display: inline-block; 
+    width: 100px;
+   
+    
+  }
+  .btn:hover {
+    background-color: darkred;
+  }
+  .lbtn{
+    background-color: red;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-right: 20px;
+    text-align:center; 
+    vertical-align:middle;
+    text-decoration: none;
+    display: inline-block; 
+    width: 100px;
+   
+    
+  }
+  .lbtn:hover {
+    background-color: darkred;
+  }
+  .inputfield{
+    background-color: #e8eff8;
+     padding: 10px;
+     font-size: 16px;
+     width: 25%;
+     border-radius: 5px;
+     border: none;
+     margin-bottom: 20px;
+   }
+
+   .fieldset
+   {
+    border-radius: 25px;
+    margin-top: 25px;
+    background-color: #ffffff;
+    padding: 40px;
+    box-shadow: 0px 5px 10px rgba(142, 126, 168, 0.1);
+    width: 100%;
+   }
+   
+   body {
+   
+    margin: 10px;
+    padding: 10px;
+    background-color: #ffffff;
+    font-family: "Helvetica", Sans-Serif;
+    
+  }
+
+  /* shifa */
+
+  .button{
+    background-color: #138080;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-right: 20px;
+    width: 100px;
+    text-decoration: none;
+    
+  }
+  .button:hover {
+    background-color: rgb(54, 71, 7);
+  }

@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: lightgray;
+    }
+    h1 {
+    text-align: center;
+    color: black;
+    }
+
+    fieldset {
+        max-width: 600px;
+        margin: 50px auto;
+        border: 2px solid black;
+        padding: 20px;
+        background-color: white;
+    }
+
+    h3 {
+        color: darkblue;
+    }
+
+    p {
+        color: black;
+    }
+
+    button {
+        background-color: darkblue;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        
+    }
+
+    button:hover {
+        background-color: blue;
+    }

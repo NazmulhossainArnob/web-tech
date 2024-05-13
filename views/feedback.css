@@ -1,0 +1,41 @@
+body {
+    background-color: white;
+    font-family: Arial, sans-serif;
+}
+
+fieldset {
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+legend {
+    font-weight: bold;
+    font-size: 24px;
+    color: navy;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+    font-size: 18px;
+    color: darkgreen;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    border: 1px solid black;
+    padding: 5px;
+    font-size: 16px;
+    color: maroon;
+}
+
+button[type="submit"] {
+    background-color: green;
+    color: white;
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}

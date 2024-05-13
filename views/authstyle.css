@@ -1,0 +1,60 @@
+.body {
+   
+    margin: 10px;
+    padding: 10px;
+    background-color: #f7f7f7;
+    font-family: "Helvetica", Sans-Serif;
+    background-image: url("../assets/banckgroundimage.jpg");
+  }
+  .form {
+    border-radius: 25px;
+    margin-top: 10px;
+    background-color: #ffffff;
+    padding: 40px;
+    box-shadow: 0px 5px 10px rgba(142, 126, 168, 0.1);
+    width: 100%;
+    
+  }
+ 
+.inputfield{
+ background-color: #e8eff8;
+  padding: 10px;
+  font-size: 16px;
+  width: 100%;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 20px;
+}
+
+
+.btn{
+  background-color: #0f9bec;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-right: 20px;
+  text-decoration: none;
+  
+}
+
+.btn:hover {
+        background-color: darkred;
+      }
+
+a:hover{
+  color: #320be0;
+}
+
+.helpsupport{
+   border-radius: 25px;
+    margin-top: 25px;
+    background-color: #ffffff;
+    padding: 40px;
+    box-shadow: 0px 5px 10px rgba(142, 126, 168, 0.1);
+    width: 100%;
+}
+
+

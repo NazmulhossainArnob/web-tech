@@ -1,0 +1,45 @@
+body {
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+fieldset {
+    width: 90%;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid darkgray;
+    border-radius: 10px;
+}
+
+legend h1 {
+    text-align: center;
+    color: black;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid white;
+}
+
+tr:hover {
+    background-color: aliceblue;
+}
+
+th {
+    background-color: darkgreen;
+    color: white;
+}
+
+td:first-child {
+    font-weight: bold;
+}
